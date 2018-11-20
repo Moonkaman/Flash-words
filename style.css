@@ -25,3 +25,7 @@ textarea{
 .btn:hover{
   background-color: rgb(82, 157, 255);
 }
+
+h2{
+  text-align: center;
+}
